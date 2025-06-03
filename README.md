@@ -15,7 +15,7 @@
 ### 👉 Open to 6-month internship opportunities starting in September 2025.
 <br>
 <div align="center">
-  <a href="lorene.khalifa1@gmail.com">
+  <a href="mailto:lorene.khalifa1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/lorene-khalifa" target="_blank">
