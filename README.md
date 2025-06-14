@@ -1,18 +1,7 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/lorene-k/count.svg" alt="Visitor's Count" />
-</div>
-
+  
 <img src="https://raw.githubusercontent.com/lorene-k/lorene-k/main/banner.png" alt="Lorene.k banner image" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Futura&size=48&center=true&vCenter=true&width=500&height=70&color=8839ff&duration=4000&lines=Hi+There!+👋;+I'm+Lorene!;" />
-</h1>
-
-- A student at École 42 in Paris, passionate about problem-solving and developing user-centric applications.
-- Currently building a full-stack single-page web application using **TypeScript** and **Tailwind CSS** on the frontend, with a **Fastify** (Node.js) and **SQL** backend.
- 
-### 👉 Open to 6-month internship opportunities starting in September 2025.
 <br>
 <div align="center">
   <a href="mailto:lorene.khalifa1@gmail.com">
