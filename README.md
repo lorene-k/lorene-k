@@ -13,14 +13,11 @@
 </div>
 
 <hr>
-
-## Languages and Tools
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,ts,nodejs,docker,bash,git,figma" />
 </p>
 
-## Github Stats
 <br>
 <div align="center">
   <table>
