@@ -1,6 +1,4 @@
 <div align="center"> 
-  
-<img src="https://raw.githubusercontent.com/lorene-k/lorene-k/main/banner.png" alt="Lorene.k banner image" />
 
 <br>
 <div align="center">
