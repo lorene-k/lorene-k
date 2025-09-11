@@ -1,7 +1,7 @@
 
 
 <div align="center"> 
-<p>42 student looking for a 6-month internship as a Software Engineer starting in September 2025.</p>
+<p>42 student looking for a 6-month internship as a Software Engineer.</p>
 <br>
 <div align="center">
   <a href="https://linkedin.com/in/lorene-khalifa" target="_blank">
