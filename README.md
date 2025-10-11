@@ -2,7 +2,8 @@
 
 <div align="center"> 
 <p>42 student looking for a 6-month internship as a Software Engineer.</p>
-<br>
+
+<!-- <br>
 <div align="center">
   <a href="https://linkedin.com/in/lorene-khalifa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -16,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=docker,bash,git,figma,html,css,tailwind" />
 </p>
 
-<!--
 <br>
 <div align="center">
   <table>
