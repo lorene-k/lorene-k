@@ -1,7 +1,7 @@
 
 
 <div align="center"> 
-<p>42 student looking for a 6-month internship as a Software Engineer.</p>
+<p>42 student and aspiring Software Engineer.</p>
 
 <!--<br>
 <div align="center">
