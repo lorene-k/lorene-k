@@ -1,7 +1,7 @@
 
 
 <div align="center"> 
-<p>42 student and aspiring Software Engineer.</p>
+<p>42 student and junior Software Engineer.</p>
 
 <!--<br>
 <div align="center">
