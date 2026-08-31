@@ -1,7 +1,7 @@
 
 
 <div align="center"> 
-<p>42 student and junior Software Engineer.</p>
+<p>42 student and Fullstack Developer.</p>
 
 <!--<br>
 <div align="center">
